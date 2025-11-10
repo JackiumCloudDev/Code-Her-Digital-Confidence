@@ -4,20 +4,4 @@
     <loc>https://dainty-moxie-6b0b2a.netlify.app/</loc>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://dainty-moxie-6b0b2a.netlify.app/#about</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dainty-moxie-6b0b2a.netlify.app/#services</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dainty-moxie-6b0b2a.netlify.app/#impact</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dainty-moxie-6b0b2a.netlify.app/#contact</loc>
-    <priority>0.7</priority>
-  </url>
 </urlset>
