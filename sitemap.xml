@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://dainty-moxie-6b0b2a.netlify.app/</loc>
-    <priority>1.0</priority>
+    <loc>https://code-her-digital-confidence-one.vercel.app/</loc>
+    <lastmod>2025-11-12</lastmod>
+    <priority>1.00</priority>
   </url>
+
 </urlset>
